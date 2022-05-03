@@ -1,8 +1,9 @@
+# TASK 3 - TAREFA 3
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="120" height="120">
   </p>
-  
-# TASK 3 - TAREFA 3
+
 ## PARTE 1: Criando o meu projeto spring
 ### Objetivo: Criar o projeto Spring no Spring Initializr
 
