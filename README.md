@@ -20,16 +20,16 @@ validation)# Back-end
 1. Objetivo: criar a primeira model do projeto Spring,
 2. Passos para a execução do exercício:
 ○ Configurar o application.properties para a conexão com
-o meu banco de dados
-○ Criar a minha primeira model
+o meu banco de dados</b>
+○ Criar a minha primeira model</b>
 ○ Definir os atributos baseado no DER da atividade 2 do
-projeto integrador
-○ Criar os métodos get and setters
+projeto integrador</b>
+○ Criar os métodos get and setters</b>
 ○ Inserir todas as datas annotations necessárias para criação
-e configuração das tabelas.
+e configuração das tabelas.</b>
 ○ Criar uma documentação em docs com os atributos
 escolhidos e seus motivos de escolha (Modelo que será
-compartilhado).
-○ E-commerce Model Categoria
+compartilhado).</b>
+○ E-commerce Model Categoria</b>
 ○ Rede Social Model Tema
 
