@@ -1,7 +1,6 @@
 # TAREFA 3 - PARTE 1: Criando o meu projeto spring
 
-## Objetivo: Criar o projeto Spring no Spring
-Initializr.
+## Objetivo: Criar o projeto Spring no Spring Initializr.
 
 Descrição de acordo com as boas práticas:
 1. Definir o group (Exemplo: com.generation)
