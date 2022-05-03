@@ -32,4 +32,3 @@ e configuração das tabelas.</br>
 ○ Criar uma documentação em docs com os atributos escolhidos e seus motivos de escolha (Modelo que será compartilhado).</br>
 ○ E-commerce Model Categoria</br>
 ○ Rede Social Model Tema
-
