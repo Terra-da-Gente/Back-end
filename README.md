@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="100" height="100">
+  </p>
+
 # TASK 3 - TAREFA 3
 
 ## PARTE 1: Criando o meu projeto spring
