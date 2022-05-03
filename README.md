@@ -1,6 +1,8 @@
-# TAREFA 3 - PARTE 1: Criando o meu projeto spring
+# TAREFA 3
 
-## Objetivo: Criar o projeto Spring no Spring Initializr
+## PARTE 1: Criando o meu projeto spring
+
+### Objetivo: Criar o projeto Spring no Spring Initializr
 
 Descrição de acordo com as boas práticas:
 1. Definir o group (Exemplo: com.generation)
@@ -14,9 +16,10 @@ do projeto)
 dev tools, spring data JPA, mysql driver,
 validation)# Back-end
 
-# TAREFA 3 - PARTE 2: Criando a model do meu projeto spring
 
-## Objetivo: criar a primeira model do projeto Spring
+## PARTE 2: Criando a model do meu projeto spring
+
+### Objetivo: criar a primeira model do projeto Spring
 
 Passos para a execução do exercício: </br><br>
 ○ Configurar o application.properties para a conexão com
