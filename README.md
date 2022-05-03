@@ -9,13 +9,11 @@
 
 Descrição de acordo com as boas práticas:
 
-○ Definir o group (Exemplo: com.generation)
-○ Definir o artefato (Nome da aplicação que
-será criada, geralmente tem o mesmo nome
-do projeto)
-○ Definir o name
-○ Não esquecer da versão do Java 11
-○ Não esquecer de criar um projeto maven
+○ Definir o group (Exemplo: com.generation) </br>
+○ Definir o artefato (Nome da aplicação que será criada, geralmente tem o mesmo nome do projeto) </br>
+○ Definir o name </br>
+○ Não esquecer da versão do Java 11 </br>
+○ Não esquecer de criar um projeto maven </br>
 ○ Inserir as dependências (spring web, spring dev tools, spring data JPA, mysql driver, validation) <b> Back-end </b>
 <br><br>
 
@@ -27,14 +25,11 @@ Passos para a execução do exercício: </br><br>
 ○ Configurar o application.properties para a conexão com
 o meu banco de dados </br>
 ○ Criar a minha primeira model </br>
-○ Definir os atributos baseado no DER da atividade 2 do
-projeto integrador </br>
+○ Definir os atributos baseado no DER da atividade 2 do projeto integrador </br>
 ○ Criar os métodos get and setters </br>
 ○ Inserir todas as datas annotations necessárias para criação
 e configuração das tabelas.</br>
-○ Criar uma documentação em docs com os atributos
-escolhidos e seus motivos de escolha (Modelo que será
-compartilhado).</br>
+○ Criar uma documentação em docs com os atributos escolhidos e seus motivos de escolha (Modelo que será compartilhado).</br>
 ○ E-commerce Model Categoria</br>
 ○ Rede Social Model Tema
 
