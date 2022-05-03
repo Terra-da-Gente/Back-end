@@ -8,16 +8,15 @@
 ### Objetivo: Criar o projeto Spring no Spring Initializr
 
 Descrição de acordo com as boas práticas:
-1. Definir o group (Exemplo: com.generation)
-2. Definir o artefato (Nome da aplicação que
+
+○ Definir o group (Exemplo: com.generation)
+○ Definir o artefato (Nome da aplicação que
 será criada, geralmente tem o mesmo nome
 do projeto)
-3. Definir o name
-4. Não esquecer da versão do Java 11
-5. Não esquecer de criar um projeto maven
-6. Inserir as dependências (spring web, spring
-dev tools, spring data JPA, mysql driver,
-validation)# Back-end
+○ Definir o name
+○ Não esquecer da versão do Java 11
+○ Não esquecer de criar um projeto maven
+○ Inserir as dependências (spring web, spring dev tools, spring data JPA, mysql driver, validation) <b> Back-end </b>
 <br><br>
 
 ## PARTE 2: Criando a model do meu projeto spring
