@@ -15,7 +15,7 @@ do projeto)
 6. Inserir as dependências (spring web, spring
 dev tools, spring data JPA, mysql driver,
 validation)# Back-end
-
+<br><br>
 
 ## PARTE 2: Criando a model do meu projeto spring
 
