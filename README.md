@@ -18,7 +18,7 @@ validation)# Back-end
 # TAREFA 3 - PARTE 2: Criando a model do meu projeto spring
 
 1. Objetivo: criar a primeira model do projeto Spring,
-2. Passos para a execução do exercício:
+2. Passos para a execução do exercício: </br>
 ○ Configurar o application.properties para a conexão com
 o meu banco de dados </br>
 ○ Criar a minha primeira model </br>
