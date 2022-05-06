@@ -20,11 +20,11 @@ public class Categoria {
 	private Long id;
 	
 	@NotBlank(message = "Atributo nome precisa ser inserido.")
-	@Size(min = 5, max = 255, message = "Número mínimo de caracteres é 5 e número máximo de caracteres é 255")
+	@Size(min = 5, max = 255, message = "Número mínimo de caracteres é 5 e número máximo de caracteres é 255.")
 	private String nome;
 	
-	@NotNull(message = "Atributo ativo precisa ser inserido")
-	@AssertTrue(message = "O valor precisa ser verdadeiro")
+	@NotNull(message = "Atributo ativo precisa ser inserido.")
+	@AssertTrue(message = "O valor precisa ser verdadeiro.")
 	private boolean ativo;
 
 	public Long getId() {
