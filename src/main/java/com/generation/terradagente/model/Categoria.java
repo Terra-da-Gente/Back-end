@@ -24,7 +24,7 @@ public class Categoria {
 	private String nome;
 	
 	@NotNull(message = "Atributo ativo precisa ser inserido")
-	@AssertTrue
+	@AssertTrue(message = "O valor precisa ser verdadeiro")
 	private boolean ativo;
 
 	public Long getId() {
