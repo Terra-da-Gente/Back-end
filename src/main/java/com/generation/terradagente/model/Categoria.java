@@ -7,6 +7,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.AssertTrue;
 import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 @Entity
@@ -22,7 +23,7 @@ public class Categoria {
 	@Size(min = 5, max = 255, message = "Número mínimo de caracteres é 5 e número máximo de caracteres é 255")
 	private String nome;
 	
-	@NotBlank(message = "Atributo ativo precisa ser inserido")
+	@NotNull(message = "Atributo ativo precisa ser inserido")
 	@AssertTrue
 	private boolean ativo;
 
