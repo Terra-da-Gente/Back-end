@@ -50,6 +50,9 @@ public class Produto {
 	@Positive(message = "O peso deve ser maior do que zero.")
 	private BigDecimal peso;
 	
+	@NotNull(message = "Atributo ativo precisa ser inserido.")
+	private boolean ativo;
+
 	@NotNull(message = "Atributo perecível precisa ser inserido.")
 	private boolean perecivel;
 	
@@ -57,6 +60,10 @@ public class Produto {
 	@Column(name = "data_fabricacao")
 	@JsonFormat(pattern = "yyyy-MM-dd")
 	private LocalDate dataFabricacao;
+
+	@Column(name = "data_validade")
+	@JsonFormat(pattern = "yyyy-MM-dd")
+	private LocalDate dataValidade;
 	
 	@ManyToOne
 	@JsonIgnoreProperties("produto")
@@ -150,4 +157,19 @@ public class Produto {
 		this.categoria = categoria;
 	}
 
+	public boolean isAtivo() {
+		return ativo;
+	}
+
+	public void setAtivo(boolean ativo) {
+		this.ativo = ativo;
+	}
+	
+	public LocalDate getDataValidade() {
+		return dataValidade;
+	}
+
+	public void setDataValidade(LocalDate dataValidade) {
+		this.dataValidade = dataValidade;
+	}
 }
