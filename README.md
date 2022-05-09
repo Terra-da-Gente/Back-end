@@ -28,4 +28,4 @@
 ○ A model deverá conter os atributos funcionais do seu projeto. </br>
 ○ O projeto deve conter todas as funções de um crud (Create,Read,Update,Delete). </br>
 ○ O projeto deve conter pelo menos um método de busca por um atributo específico.</br>
-○ /Verificar boas práticas de relacionamento de acordo com a regra de negócio do seu projeto; </br>
+○ Verificar boas práticas de relacionamento de acordo com a regra de negócio do seu projeto; </br>
