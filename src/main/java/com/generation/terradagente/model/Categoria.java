@@ -36,6 +36,8 @@ public class Categoria {
 	@OneToMany(mappedBy = "categoria", cascade = CascadeType.REMOVE)
 	@JsonIgnoreProperties("categoria")
 	private List<Produto> produto;
+	
+	private String foto1;
 
 	public List<Produto> getProduto() {
 		return produto;
@@ -67,6 +69,14 @@ public class Categoria {
 
 	public void setAtivo(boolean ativo) {
 		this.ativo = ativo;
+	}
+
+	public String getFoto1() {
+		return foto1;
+	}
+
+	public void setFoto1(String foto1) {
+		this.foto1 = foto1;
 	}
 	
 }
