@@ -1,9 +1,9 @@
 # 🌱 Terra da Gente
 API para fornecer serviços REST de Ecommerce.
 
-- [**Front-End**](https://github.com/nogran/Blog-Pessoal-Front-End)<br>
+- [**Front-End**](https://github.com/Terra-da-Gente/Front-end)<br>
   - Website - Netlify https://terra-da-gente.netlify.app/
-- [**Back-End**](https://github.com/nogran/Blog-Pessoal-Back-End)
+- [**Back-End**](https://github.com/Terra-da-Gente/Back-end)
   - Back-End - Heroku https://terradagente.herokuapp.com/
 
 ## ✨ Objetivo:
