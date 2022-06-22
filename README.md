@@ -1,31 +1,46 @@
-# TASK 5 - TAREFA 5
+# 🌱 Terra da Gente
+API para fornecer serviços REST de Ecommerce.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="120" height="120">
-  </p>
+- [**Front-End**](https://github.com/nogran/Blog-Pessoal-Front-End)<br>
+  - Website - Netlify https://terra-da-gente.netlify.app/
+- [**Back-End**](https://github.com/nogran/Blog-Pessoal-Back-End)
+  - Back-End - Heroku https://terradagente.herokuapp.com/
 
-## Criando o Projeto spring.
-### Objetivo: Criar CRUDs com relacionamento para o meu projeto spring. </br>
+## ✨ Objetivo:
+O projeto Terra da Gente visa melhorar a qualidade de vida e fornecer meios de subsistência para as famílias em situação de assentamento envolvidas, bem como incentivar o consumo de produtos e serviços dos pequenos empreendedores, agricultores rurais e urbanos em situação de vulnerabilidade.
 
-<b>Descrição</b>:
-
-○ Criar a model de usuário (definindo os atributos de nome, usuário (email), foto e senha); </br>
-○ Criar a model de produto; </br>
-○ Definir os atributos de produto; </br>
-○ Relacionar a model de produto com categoria; </br>
-○ Relacionar a model de produto com usuário (Se for um Marketplace); </br>
-○ Fazer o CRUD da model da tabela de produto; </br>
-○ Criar todos os métodos básicos do CRUD para produto; </br>
-○ Fazer um método específico de busca para um determinado atributo da sua model para produto. (findAllByNome...) </br>
-
-## AVALIAÇÃO
-
-### Critérios de avaliação da resolução do exercício.
-
-○ O projeto deve executar sem erros </br>
-○ O projeto deverá conter os relacionamentos especificados em cada modelo de projeto </br>
-○ O JPA deverá criar a tabela no banco de dados com todas as especificações propostas </br>
-○ A model deverá conter os atributos funcionais do seu projeto. </br>
-○ O projeto deve conter todas as funções de um crud (Create,Read,Update,Delete). </br>
-○ O projeto deve conter pelo menos um método de busca por um atributo específico.</br>
-○ Verificar boas práticas de relacionamento de acordo com a regra de negócio do seu projeto; </br>
+## :rocket: Tecnologias:
+<br>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="70">
+&nbsp;
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70">
+&nbsp;
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70">
+&nbsp;
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70">
+&nbsp;
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65">
+&nbsp;
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" height="70">
+&nbsp;
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65">
+&nbsp;
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70">
+ </div>
+ 
+ ## 💻 Nosso Time:
+ 
+[Alexandre Barbosa](https://github.com/alebs10)<br>
+[Daniel Gardeli](https://github.com/gardeli96)<br>
+[Gustavo Henrique Marques de Souza](https://github.com/guhms1998)<br>
+[Leticia Alves Zuniga](https://github.com/LeZuniga)<br>
+[Mateus Nogueira](https://github.com/nogran)<br>
+[Tainã Xavier](https://github.com/taaixsp)<br>  
