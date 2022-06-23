@@ -1,5 +1,5 @@
 # 🌱 Terra da Gente
-API para fornecer serviços REST de Ecommerce.
+API REST em Spring Boot para E-Commerce com consumo em React.
 
 - [**Front-End**](https://github.com/Terra-da-Gente/Front-end)<br>
   - Website - Netlify https://terra-da-gente.netlify.app/
