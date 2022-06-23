@@ -4,7 +4,7 @@ API para fornecer serviços REST de Ecommerce.
 - [**Front-End**](https://github.com/Terra-da-Gente/Front-end)<br>
   - Website - Netlify https://terra-da-gente.netlify.app/
 - [**Back-End**](https://github.com/Terra-da-Gente/Back-end)
-  - Back-End - Heroku https://terradagente.herokuapp.com/
+  - Back-End - Heroku https://terra-da-gente.herokuapp.com/
 
 ## ✨ Objetivo:
 O projeto Terra da Gente visa melhorar a qualidade de vida e fornecer meios de subsistência para as famílias em situação de assentamento envolvidas, bem como incentivar o consumo de produtos e serviços dos pequenos empreendedores, agricultores rurais e urbanos em situação de vulnerabilidade.
